@@ -12,7 +12,9 @@ Created by Xiangru Zhou from Udemy...
 3. For customer Data Access Object(DAO), it is responsible for interfacing with the database. It could implement CRUD(create, read, update, delete).
 
 4. Perform Spring MVC Form Validation using Hibernate-validator: 
+
    4.1 Validate number ranges and regualr expressions
+   
    4.2 Create custom validation rules
 
 5. Apply the Proxy design pattern and add AOP(Aspect-Oriented Programming) Logging support to this Spring MVC and Hibernate application
